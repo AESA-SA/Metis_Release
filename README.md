@@ -2,7 +2,7 @@
 This is the download center of Metis
 
 ## 🔖 Latest Release
-- **Version:** [v1.0.8-beta](https://github.com/AESA-SA/Metis_Release/releases/tag/v1.0.8-beta)
+- **Version:** [v1.0.9](https://github.com/AESA-SA/Metis_Release/releases/tag/v1.0.9)
 - **Release Date:** 2026 November 13
 - **What's New:** [View the changelog](CHANGELOG.md) for a full list of updates.
 
